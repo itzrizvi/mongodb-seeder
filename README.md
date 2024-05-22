@@ -16,10 +16,9 @@ Ensure you have a running instance of MongoDB. You can download and install Mong
 
 ### 3. NPM Modules
 
-Install the necessary npm modules by running:
+Install the necessary npm modules by running (It will install node_modules):
 
 ```bash
-npm init -y
 npm install mongodb
 ```
 
