@@ -79,5 +79,5 @@ async function dbSeeder() {
     console.log(`☢️  ${error}`);
   }
 }
-
+// Call The Main Function
 dbSeeder();
