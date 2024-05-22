@@ -1,4 +1,4 @@
 {
-    "db_url": "mongodb+srv://<username>:<password>@cluster0.9hvytdb.mongodb.net/rizvi-upwork?retryWrites=true&w=majority&appName=Cluster0",
-    "db_name": "rizvi-upwork"
+    "db_url": "mongodb+srv://<username>:<password>@cluster0.9hvytdb.mongodb.net/<db_name>?retryWrites=true&w=majority&appName=Cluster0",
+    "db_name": "db_name"
 }
